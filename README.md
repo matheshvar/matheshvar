@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Mathesh Varma  
 
-💻 **Embedded Systems Enthusiast | Bare-Metal C Programmer | STM32 Explorer**
+💻 **Embedded Systems Enthusiast | Aspiring Firmware Developer**
 
 ---
 
@@ -17,9 +17,9 @@
 
 ### ⚡ Technical Skills
 - **Programming:** C, Embedded C  
-- **Microcontrollers:** STM32 (Nucleo-F446RE), ARM Cortex-M  
+- **Microcontrollers:** STM32 (Nucleo-F446RE), Arduino, ESP32  
 - **Peripherals:** GPIO, UART, SPI, I²C, Timers, ADC  
-- **Tools & Platforms:** STM32CubeIDE, Keil, GCC, GDB, Git, Linux  
+- **Tools & Platforms:** STM32CubeIDE, Keil, GCC, Git
 
 ---
 
