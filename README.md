@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mathesh%20Varma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mathesh%20Varma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
 # 👋 Hi, I'm Mathesh Varma  
 
@@ -8,41 +8,31 @@
 ---
 
 ### 🚀 About Me
-- 🔹 Passionate about **Embedded Systems** and **Low-Level C Programming**  
-- 🔹 Writing **bare-metal drivers** (GPIO, Timers, UART, SPI, I²C, ADC) for STM32  
-- 🔹 Learning **ARM Cortex-M architecture**, **OS & RTOS concepts**  
-- 🔹 Interested in **drones** and **impactful embedded projects**  
-- 🔹 Linux + Windows dual-boot tinkerer 🐧🪟  
+- Passionate about **Embedded Systems** and **Low-Level Programming**  
+- Experienced in writing **bare-metal drivers** for STM32 (GPIO, Timers, UART, SPI, I²C, ADC)  
+- Currently exploring **ARM Cortex-M architecture** and **RTOS fundamentals**  
+- Interested in building **impactful embedded projects** in real-time systems and hardware-software integration  
 
 ---
 
-### ⚡ Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ARM Cortex](https://img.shields.io/badge/ARM-CortexM4-0091BD?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### ⚡ Technical Skills
+- **Programming:** C, Embedded C  
+- **Microcontrollers:** STM32 (Nucleo-F446RE), ARM Cortex-M  
+- **Peripherals:** GPIO, UART, SPI, I²C, Timers, ADC  
+- **Tools & Platforms:** STM32CubeIDE, Keil, GCC, GDB, Git, Linux  
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheshVarma&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheshVarma&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
-</p>
-
----
-
-### 🎶 Beyond Tech
-- 🎧 Fan of **Hindi music** (Arijit Singh 💙)  
-- 🎮 Gamer (God of War, Resident Evil)  
-- 🏔️ Trekker (Rengamalai, Dindigul)  
+### 📈 Current Learning
+- Developing **modular, register-level drivers** from scratch  
+- Understanding **RTOS concepts** (tasks, scheduling, synchronization)  
+- Strengthening foundations in **communication protocols** (SPI, I²C, UART)  
 
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_HERE)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheshvarma25)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheshvarma25@gmail.com)  
 
 ---
 
